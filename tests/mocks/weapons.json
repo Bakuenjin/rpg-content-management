@@ -1,0 +1,30 @@
+{
+	"weapons": [
+		{
+			"id": 1,
+			"name": "Small Dagger",
+			"rarity": 1,
+			"type": 1,
+			"element": 1,
+			"attributes": [
+				{
+					"id": 2,
+					"value": 25
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "Goblin Dagger",
+			"rarity": 2,
+			"type": 1,
+			"element": 4,
+			"attributes": [
+				{
+					"id": 2,
+					"value": 42
+				}
+			]
+		}
+	]
+}

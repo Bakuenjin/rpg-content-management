@@ -1,0 +1,10 @@
+{
+	"characterWithMinimalContent": {
+		"id": 1,
+		"name": "ValidPlayer",
+		"weapons": [ 1 ],
+		"armors": [ 1 ],
+		"currentWeapon": 1,
+		"currentArmor": [ 1 ]
+	}
+}

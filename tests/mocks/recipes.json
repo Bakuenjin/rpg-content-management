@@ -1,0 +1,157 @@
+{
+	"itemRecipes": [
+		{
+			"id": 1,
+			"result": 5,
+			"requirements": [
+				{
+					"type": "Balance",
+					"value": 500
+				},
+				{
+					"type": "Item",
+					"id": 4,
+					"value": 1
+				},
+				{
+					"type": "Item",
+					"id": 1,
+					"value": 3
+				}
+			]
+		},
+		{
+			"id": 2,
+			"result": 10,
+			"requirements": [
+				{
+					"type": "Balance",
+					"value": 1800
+				},
+				{
+					"type": "Item",
+					"id": 6,
+					"value": 3
+				},
+				{
+					"type": "Item",
+					"id": 4,
+					"value": 3
+				},
+				{
+					"type": "Item",
+					"id": 8,
+					"value": 1
+				}
+			]
+		}
+	],
+	"weaponRecipes": [
+		{
+			"id": 1,
+			"result": 1,
+			"requirements": [
+				{
+					"type": "Balance",
+					"value": 500
+				},
+				{
+					"type": "Level",
+					"value": 5
+				},
+				{
+					"type": "Item",
+					"id": 2,
+					"value": 3
+				},
+				{
+					"type": "Item",
+					"id": 3,
+					"value": 1
+				}
+			]
+		},
+		{
+			"id": 2,
+			"result": 2,
+			"requirements": [
+				{
+					"type": "Balance",
+					"value": 4500
+				},
+				{
+					"type": "Level",
+					"value": 15
+				},
+				{
+					"type": "AttributeLevel",
+					"id": 2,
+					"value": 3
+				},
+				{
+					"type": "Weapon",
+					"id": 1
+				},
+				{
+					"type": "Item",
+					"id": 3,
+					"value": 3
+				},
+				{
+					"type": "Item",
+					"id": 4,
+					"value": 2
+				},
+				{
+					"type": "Item",
+					"id": 9,
+					"value": 1
+				}
+			]
+		}
+	],
+	"armorRecipes": [
+		{
+			"id": 1,
+			"result": 1,
+			"requirements": [
+				{
+					"type": "Balance",
+					"value": 500
+				},
+				{
+					"type": "Level",
+					"value": 5
+				},
+				{
+					"type": "Item",
+					"id": 1,
+					"value": 3	
+				}
+			]
+		},
+		{
+			"id": 2,
+			"result": 2,
+			"requirements": [
+				{
+					"type": "Balance",
+					"value": 4500
+				},
+				{
+					"type": "Level",
+					"value": 15
+				},
+				{
+					"type": "Armor",
+					"id": 1
+				},
+				{
+					"type": "Item",
+					"id": 5,
+					"value": 3	
+				}
+			]
+		}
+	]
+}

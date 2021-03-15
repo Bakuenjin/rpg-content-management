@@ -1,0 +1,28 @@
+{
+	"attributes": [
+		{
+			"id": 1,
+			"name": "HP",
+			"baseValue": 50,
+			"increaseRate": "x^2+10"
+		},
+		{
+			"id": 2,
+			"name": "ATK",
+			"baseValue": 10,
+			"increaseRate": "5*x"
+		},
+		{
+			"id": 3,
+			"name": "DEF",
+			"baseValue": 10,
+			"increaseRate": "3*x"
+		},
+		{
+			"id": 4,
+			"name": "SPD",
+			"baseValue": 100,
+			"increaseRate": 1
+		}
+	]
+}

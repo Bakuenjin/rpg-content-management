@@ -1,0 +1,38 @@
+{
+	"armors": [
+		{
+			"id": 1,
+			"name": "Thin Leatherboots",
+			"rarity": 1,
+			"type": 5,
+			"element": 1,
+			"attributes": [
+				{
+					"id": 1,
+					"value": 50
+				},
+				{
+					"id": 3,
+					"value": 20
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "Tough Leatherboots",
+			"rarity": 2,
+			"type": 5,
+			"element": 1,
+			"attributes": [
+				{
+					"id": 1,
+					"value": 70
+				},
+				{
+					"id": 3,
+					"value": 40
+				}
+			]
+		}
+	]
+}

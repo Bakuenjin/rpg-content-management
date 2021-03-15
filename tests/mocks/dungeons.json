@@ -1,0 +1,94 @@
+{
+	"dungeons": [
+		{
+			"id": 1,
+			"name": "Forest Shrine",
+			"rewardHandler": {
+				"itemDropChances": [
+					{
+						"id": 3,
+						"weight": 20
+					}, 
+					{
+						"id": 5,
+						"weight": 10
+					},
+					{
+						"id": 9,
+						"weight": 1
+					},
+					{
+						"id": 15,
+						"weight": 1
+					}
+				],
+				"lootAmount": {
+					"min": 3,
+					"max": 6
+				},
+				"balance": 500
+			},
+			"stages": [
+				{
+					"enemies": [ 2 ],
+					"rewardHandler": {
+						"balance": 500,
+						"experience": 300
+					}
+				},
+				{
+					"enemies": [ 2, 1, 2 ],
+					"rewardHandler": {
+						"balance": 1000,
+						"experience": 800
+					}
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "Volcano Goblin Camp",
+			"rewardHandler": {
+				"itemDropChances": [
+					{
+						"id": 3,
+						"weight": 20
+					}, 
+					{
+						"id": 5,
+						"weight": 10
+					},
+					{
+						"id": 9,
+						"weight": 1
+					},
+					{
+						"id": 15,
+						"weight": 1
+					}
+				],
+				"lootAmount": {
+					"min": 3,
+					"max": 6
+				},
+				"balance": 500
+			},
+			"stages": [
+				{
+					"enemies": [ 1 ],
+					"rewardHandler": {
+						"balance": 500,
+						"experience": 300
+					}
+				},
+				{
+					"enemies": [ 1, 1, 1 ],
+					"rewardHandler": {
+						"balance": 1000,
+						"experience": 800
+					}
+				}
+			]
+		}
+	]
+}

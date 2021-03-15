@@ -1,0 +1,89 @@
+{
+	"items": [
+		{
+			"id": 1,
+			"name": "Old Tree Bark",
+			"rarity": 1
+		},
+		{
+			"id": 2,
+			"name": "Broken Wooden Stick",
+			"rarity": 1
+		},
+		{
+			"id": 3,
+			"name": "Small Goblin Claw",
+			"rarity": 1
+		},
+		{
+			"id": 4,
+			"name": "Slime Drop",
+			"rarity": 1
+		},
+		{
+			"id": 5,
+			"name": "Wooden Goblin Shield",
+			"rarity": 2
+		},
+		{
+			"id": 6,
+			"name": "Slime Core",
+			"rarity": 2
+		},
+		{
+			"id": 7,
+			"name": "Pyro Fragment",
+			"rarity": 2
+		},
+		{
+			"id": 8,
+			"name": "Nature Fragment",
+			"rarity": 2
+		},
+		{
+			"id": 9,
+			"name": "Goblin Horn",
+			"rarity": 3
+		},
+		{
+			"id": 10,
+			"name": "Slime Extract",
+			"rarity": 3
+		},
+		{
+			"id": 11,
+			"name": "Pyro Shard",
+			"rarity": 3
+		},
+		{
+			"id": 12,
+			"name": "Nature Shard",
+			"rarity": 3
+		},
+		{
+			"id": 13,
+			"name": "Goblin Gem",
+			"rarity": 4
+		},
+		{
+			"id": 14,
+			"name": "Slime Essence",
+			"rarity": 4
+		},
+		{
+			"id": 15,
+			"name": "Pyro Stone",
+			"rarity": 4
+		},
+		{
+			"id": 16,
+			"name": "Nature Stone",
+			"rarity": 4
+		},
+		{
+			"id": 17,
+			"name": "Crown of the Demon King",
+			"rarity": 5
+		}
+	]
+}
